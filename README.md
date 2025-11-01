@@ -28,7 +28,7 @@ This repository gathers formulas, notes, and questions and answers for anyone lo
 - Covariance & Correlation  
 - Sampling, Hypothesis Testing, Confidence Intervals  
 
-### 4️ Advanced Topics (Coming Soon 🚀)
+### 4️ Advanced Topics 
 - Vector Calculus & Jacobians  
 - Optimization Methods in ML  
 - Multivariate Distributions  
